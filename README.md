@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TassianaMilka
 - 🏡I’m from São Paulo,Brazil
-- 👩‍🎓 Study Course:Develop System Analyst(Pause)
+- 🖥️Study Course:Develop System Analyst(Pause)
 - ✉Conect in E-mail: tassiana.milka@gmail.com
 - 💻WebSite:https://informationtech1.webnode.page
 
