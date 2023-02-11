@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TassianaMilka
+- 👋 Hi, I’m @Tassiana Milka
 - 🏡I’m from Campinas,São Paulo,Brazil
 - 📜WebSite:https://informationtech1.webnode.page
 - 💻Study analysis and system development.
