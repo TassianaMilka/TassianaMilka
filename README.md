@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @TassianaMilka
-- 🏡I’m from São Paulo,Brazil
+- 🏡I’m from Campinas,Brazil
 - 📜WebSite:https://informationtech1.webnode.page
-- 💻Study Develomp Analysis System.
-- 🎥My   Youtube:   
+- 💻Study analysis and system development.
+- 🎥My youtube channel:https://www.youtube.com/@tassianamilka/videos
 
               
 
