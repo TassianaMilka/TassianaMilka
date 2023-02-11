@@ -3,7 +3,7 @@
 - 📜WebSite:https://informationtech1.webnode.page
 - 💻Study analysis and system development.
 - 🎥My youtube channel:https://www.youtube.com/@tassianamilka/videos
--  📧My Email conect: tassiana.milka@gmail.com
+-  📧My Email: tassiana.milka@gmail.com
 
               
 
