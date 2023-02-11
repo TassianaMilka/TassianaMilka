@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @TassianaMilka
 - 🏡I’m from São Paulo,Brazil
-- 💻WebSite:https://informationtech1.webnode.page
+- 📜WebSite:https://informationtech1.webnode.page
+- 💻Study Develomp Analysis System.
+- 🎥My   Youtube:   
 
               
 
