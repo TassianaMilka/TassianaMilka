@@ -6,14 +6,6 @@
 - 📄Pinterest: https://pin.it/5uEVVx6
 
 
- # Pro
- 
- .Java
- 
- .Html and CSS
- 
- .C
- 
- .C++
+
 
       
