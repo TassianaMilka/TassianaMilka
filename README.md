@@ -8,9 +8,12 @@
 
  # Pro
  
- -Java
- -Html and CSS
- -C
- -C++
+ -Java🟤
+ 
+ -Html and CSS🟠
+ 
+ -C🔘
+ 
+ -C++🔴
 
       
