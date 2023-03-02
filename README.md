@@ -8,12 +8,12 @@
 
  # Pro
  
- -Java🟤
+ .Java
  
- -Html and CSS🟠
+ .Html and CSS
  
- -C🔘
+ .C
  
- -C++🔴
+ .C++
 
       
