@@ -1,7 +1,7 @@
 #  Presentation
 
-- 👋 Hi, I’m @Tassiana Milka.
-- 🏡I’m from Campinas,Brazil.  
+- 👋 Olá meu nom é @Tassiana Milka.
+- 🏡Sou de Campinas,Brasil.  
 - 💻(-----------------------------------------------).
 - 📄Pinterest-Tassiana Milka: https://br.pinterest.com/tassianamilka/ .
 - 📄Pinterest-Milka Design Programming: https://br.pinterest.com/tassianamilka2/ .
