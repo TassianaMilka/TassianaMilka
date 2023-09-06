@@ -1,6 +1,6 @@
 #  Presentation
 
-- 👋 Olá meu nome é @Tassiana Milka.
+- 👋 Olá meu nome é @Tassiana Milka.  
 - 🏡Sou de Campinas,Brasil.  
 - 💻(-----------------------------------------------).
 - 📄Pinterest-Tassiana Milka: https://br.pinterest.com/tassianamilka/ .
