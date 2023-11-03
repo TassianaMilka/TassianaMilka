@@ -2,7 +2,7 @@
 
 - 👋 Olá meu nome é @Tassiana Milka.  
 - 🏡Sou de Campinas,Brasil.  
-- 💻(-----------------------------------------------).
+- 💻Cibersegurança
 - 📄Pinterest-Tassiana Milka: https://br.pinterest.com/tassianamilka/ .
 - 📄Pinterest-Milka Design Programming: https://br.pinterest.com/tassianamilka2/ .
 
