@@ -8,7 +8,8 @@
 - 🌐linkedin: https://www.linkedin.com/in/tassiana-milka ;
 - 🌐Tumblr: https://www.tumblr.com/tassianamilka ;
 - 🌐Tumblr: https://www.tumblr.com/blog/mythoughtsthewrite ;
-- 💻Youtube:https://www.youtube.com/@TassianaMilka  .
+- 💻Youtube:https://www.youtube.com/@TassianaMilka  ;
+- 📄Mooble: https://www.mooble.com/br/usuario/tassiana14/projetos .
 
 
 # Languages
