@@ -4,7 +4,6 @@
 - 🏡I'm Campinas,Brazil;
 - 💻Cybersegurity;
 - 🌐linkedin: https://www.linkedin.com/in/tassiana-milka ;
-- 📄Mooble: https://www.mooble.com/br/usuario/tassiana14/projetos .
 - 📄Pinterest-Tassiana Milka: https://br.pinterest.com/tassianamilka/ ;
 - 📄Pinterest-Milka Design Programming: https://br.pinterest.com/tassianamilka2/ ;
 - 🌐Tumblr: https://www.tumblr.com/tassianamilka ;
