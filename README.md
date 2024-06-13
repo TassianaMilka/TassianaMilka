@@ -9,6 +9,5 @@
 - 🌐Tumblr: https://www.tumblr.com/tassianamilka ;
 - 💻Youtube:https://www.youtube.com/@TassianaMilka .
 
-# Languages
       
 
