@@ -15,8 +15,9 @@
 
 
 
+![download](https://github.com/TassianaMilka/TassianaMilka/assets/114196099/4dd3a468-e4e2-42c7-9c98-d7cda5334b87)
 
-![download](https://github.com/TassianaMilka/About/assets/114196099/7b338072-69e6-4706-8643-e4d1ef51bef6)
+
 
 
 # Português
