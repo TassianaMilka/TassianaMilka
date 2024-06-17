@@ -11,7 +11,7 @@
 - 🌐Reddit: https://www.reddit.com/user/Tassiana_Milka/  .
 
       
-# About in Portuguese,English and Spanish....
+# About in portuguese,english and spanish....
 
 
 
