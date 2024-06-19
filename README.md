@@ -44,6 +44,7 @@ primeiro computador da Samsung do sistema operacional windows XP na verdade era 
 
 <p>I am grateful every day for what I do and where I want to go.</p>
 
+<p>Sorry my write in english and spanish erro,because i'm not yet fluent in the languages.I learn by writing on github and other social networks.It's a way I found to learn.</p>
 
 # Espanõl 
 <p>En mi infancia ya quería entender cuando no tenía celular, notebook y computadora hasta que un día tuve la primera computadora Samsung del sistema operativo windows XP en realidad era mía y de mi hermano.
