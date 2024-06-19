@@ -1,5 +1,5 @@
 #  Presentation
-Sorry my write in english and spanish erro,because i'm not yet fluent in the languages.I learn by writing on github and other social networks.It's a way I found to learn.
+
 - 👋Hello, my name is @Tassiana Milka;
 - 🏡I'm Campinas,Brazil;
 - 💻Cyber Segurity;
@@ -10,6 +10,7 @@ Sorry my write in english and spanish erro,because i'm not yet fluent in the lan
 - 💻Youtube: https://www.youtube.com/@TassianaMilka ;
 - 🌐Reddit: https://www.reddit.com/user/Tassiana_Milka/  .
 
+-Sorry my write in english and spanish erro,because i'm not yet fluent in the languages.I learn by writing on github and other social networks.It's a way I found to learn.
       
 # About in portuguese,english and spanish....
 
