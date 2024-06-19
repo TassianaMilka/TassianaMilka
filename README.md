@@ -10,7 +10,7 @@
 - 💻Youtube: https://www.youtube.com/@TassianaMilka ;
 - 🌐Reddit: https://www.reddit.com/user/Tassiana_Milka/  .
 
--Sorry my write in english and spanish erro,because i'm not yet fluent in the languages.I learn by writing on github and other social networks.It's a way I found to learn.
+-Sorry my write in english and spanish erro,because i'am not yet fluent in the languages.I learn by writing on github and other social networks.It's a way I found to learn.
       
 # About in portuguese,english and spanish....
 
