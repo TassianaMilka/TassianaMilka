@@ -58,5 +58,5 @@ primeiro computador da Samsung do sistema operacional windows XP na verdade era 
 
 <p>Lo principal es que no tengas miedo poco a poco vas adquiriendo muchos conocimientos y este mundo contiene varios caminos.</p>
 
-<p>Estoy agradecido todos los días por lo que hago y hacia dónde quiero ir.</p>
+<p>Estoy agradecida todos los días por lo que hago y hacia dónde quiero ir.</p>
 
