@@ -25,7 +25,7 @@
 
  <p>Na minha infância  já queria compreender quando eu não tinha um aparelho celular,notebook e computador até que um dia tive o 
 primeiro computador da Samsung do sistema operacional windows XP na verdade era meu e do meu irmão.</p>
-<p>Lembro que meu pai na época  pagou um curso de informática básica para ele como não podia ir nas aulas estudava pela apostila que utilizava.Analisava cada sequência de como ligava um computador e acessava o navegador das versões mais antigas do windows.</p>
+<p>Lembro quando eu estudava pela apostila e analisava cada sequência de como ligava um computador e acessava o navegador das versões mais antigas do windows.</p>
  <p>Gostava muito de acessar os sites de jogos e alguns deles fizeram grandes sucessos em 2000 até 2009.
  Durante a minha trajetória pensei em várias profissões,mas nenhuma agradava só a tecnologia até que meu pai e minha mãe motivou,pois acreditaram que eu tenho talento para tecnologia.</p>
 <p>Para muitos foi loucura a minha presença nessa área pelo fato  conter uma pequena parte de mulheres que estudam e trabalham algo que já escutei muito e que não poderia aprender nada com  essas afirmações nunca concordei.</p>
