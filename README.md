@@ -50,7 +50,7 @@ primeiro computador da Samsung do sistema operacional windows XP na verdade era 
 # Espanõl 
 <p>En mi infancia ya quería entender cuando no tenía celular, notebook y computadora hasta que un día tuve la primera computadora Samsung del sistema operativo windows XP en realidad era mía y de mi hermano.
 
-<p>Recuerdo que mi padre en ese momento le pagó un curso básico de computación como no podía ir a clase estudiaba a través del cuaderno de trabajo que usaba. Analicé cada secuencia de cómo encendí una computadora y accedí al navegador de versiones anteriores de Windows.</p>
+<p>Recuerdo cuando estudié el libro de ejercicios y analicé cada secuencia de cómo encender una computadora y acceder al navegador de versiones anteriores de Windows.</p>
 
 <p>Realmente disfruté accediendo a sitios de juegos y algunos de ellos tuvieron mucho éxito en 2000 hasta 2009. Durante mi trayectoria pensé en varias profesiones, pero ninguna de ellas era solo sobre tecnología hasta que mi padre y mi madre me motivaron, porque creían que tenía talento para la tecnología.</p>
 
