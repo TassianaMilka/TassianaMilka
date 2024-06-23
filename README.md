@@ -35,7 +35,7 @@ primeiro computador da Samsung do sistema operacional windows XP na verdade era 
 # English
 <p>In my childhood I already wanted to understand when I didn't have a mobile phone, laptop and computer until one day  had the first Samsung computer of the windows XP operating system it was actually my and my brother.</p>
 
-<pI remember when I studied through the workbook and analyzed each sequence of how to turn on a computer and access the browser of older versions of windows.</p>
+<p>I remember when I studied through the workbook and analyzed each sequence of how to turn on a computer and access the browser of older versions of windows.</p>
 
 <p>I really enjoyed accessing gaming website and some of them were very successful in 2000 until 2009. During my trajectory I thought about several professions, but none liked only technology until my father and mother motivated me, because they believed that I have a talent for technology.</p>
 
