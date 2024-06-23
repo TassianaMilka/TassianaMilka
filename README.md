@@ -24,7 +24,7 @@
 # Português
 
  <p>Na minha infância  já queria compreender quando eu não tinha um aparelho celular,notebook e computador até que um dia tive o 
-primeiro computador da Samsung do sistema operacional windows XP na verdade era meu.</p>
+primeiro computador da Samsung do sistema operacional windows XP.</p>
 <p>Lembro quando eu estudava pela apostila e analisava cada sequência de como ligava um computador e acessava o navegador das versões mais antigas do windows.</p>
  <p>Gostava muito de acessar os sites de jogos e alguns deles fizeram grandes sucessos em 2000 até 2009.
  Durante a minha trajetória pensei em várias profissões,mas nenhuma agradava só a tecnologia até que meu pai e minha mãe motivou,pois acreditaram que eu tenho talento para tecnologia.</p>
@@ -33,7 +33,7 @@ primeiro computador da Samsung do sistema operacional windows XP na verdade era 
 <p>Sou grata todos os dias pelo que faço e aonde quero chegar.</p> 
 
 # English
-<p>In my childhood I already wanted to understand when I didn't have a mobile phone, laptop and computer until one day  had the first Samsung computer of the windows XP operating system it was actually my.</p>
+<p>In my childhood I already wanted to understand when I didn't have a mobile phone, laptop and computer until one day  had the first Samsung computer of the windows XP operating system.</p>
 
 <p>I remember when I studied through the workbook and analyzed each sequence of how to turn on a computer and access the browser of older versions of windows.</p>
 
@@ -48,7 +48,7 @@ primeiro computador da Samsung do sistema operacional windows XP na verdade era 
 <p>Sorry my write in english and spanish erro,because i'm not yet fluent in the languages.I learn by writing on github and other social networks.It's a way I found to learn.</p>
 
 # Espanõl 
-<p>En mi infancia ya quería entender cuando no tenía celular, notebook y computadora hasta que un día tuve la primera computadora Samsung del sistema operativo windows XP en realidad era mía.
+<p>En mi infancia ya quería entender cuando no tenía celular, notebook y computadora hasta que un día tuve la primera computadora Samsung del sistema operativo windows XP.</p>
 
 <p>Recuerdo cuando estudié el libro de ejercicios y analicé cada secuencia de cómo encender una computadora y acceder al navegador de versiones anteriores de Windows.</p>
 
