@@ -8,6 +8,7 @@
 - 📄Pinterest-Tassiana Milka: https://br.pinterest.com/tassianamilka/ ;
 - 📄Pinterest-Milka Design Programming: https://br.pinterest.com/tassianamilka2/ ;
 - 🌐Tumblr: https://www.tumblr.com/tassianamilka ;
+- 🌐Tumblr: https://www.tumblr.com/myreadwrite ;
 - 💻Youtube: https://www.youtube.com/@TassianaMilka ;
 - 🌐Reddit: https://www.reddit.com/user/Tassiana_Milka/  .
 
