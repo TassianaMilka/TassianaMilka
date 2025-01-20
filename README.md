@@ -1,16 +1,13 @@
 #  Presentation
 
 - 👋Hello, my name is @Tassiana Milka;
-- 🏡I'm Campinas,Brazil;
-- 💻Cyber Segurity;
-- 🌐linkedin: https://www.linkedin.com/in/tassiana-milka ;
+
+
 - 💻Github Gist: https://gist.github.com/TassianaMilka ;
 - 📄Pinterest-Tassiana Milka: https://br.pinterest.com/tassianamilka/ ;
 - 📄Pinterest-Milka Design Programming: https://br.pinterest.com/tassianamilka2/ ;
-- 🌐Tumblr: https://www.tumblr.com/tassianamilka ;
-- 🌐Tumblr: https://www.tumblr.com/myreadwrite ;
 - 💻Youtube: https://www.youtube.com/@TassianaMilka ;
-- 🌐Reddit: https://www.reddit.com/user/Tassiana_Milka/  .
+
 
 - My write in english and spanish erro,because i'am not  fluent in the languages.I learn by writing on github and other social networks.It's a way I found to learn.
       
