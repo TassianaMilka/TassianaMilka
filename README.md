@@ -10,7 +10,7 @@
   
  }
 </style>
-<a href="https://portfoliotassiana-cyhg.vercel.app/index.html">Portfolio</a>
+<a href="https://portfoliotassiana-cyhg.vercel.app/index.html" style="text-decoration:none;">Portfolio</a>
 
 
  ## Github Gist- Tassiana Milka 
