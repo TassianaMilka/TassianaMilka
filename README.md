@@ -12,14 +12,14 @@
 ## Pinterest-Milka Design Programming
 
 <a href="https://br.pinterest.com/tassianamilka2/">
- <img src="https://img.icons8.com/?size=100&id=XErM9A1xNUK5&format=png&color=000000"alt="Pinterest-icon" target="_blank"></a>
+ <img src="https://img.icons8.com/?size=100&id=XErM9A1xNUK5&format=png&color=000000"alt="Youtube-icon" target="_blank"></a>
 
 
 ## Youtube-Tassiana Milka 
 
 
 <a href="https://www.youtube.com/@TassianaMilka/playlists">
- <img src="https://icons8.com/icon/MU6KaMFUbw_E/youtube"alt="youtube-icon" target="_blank"></a>
+ <img src="https://icons8.com/icon/9a46bTk3awwI/youtube"alt="youtube-icon" target="_blank"></a>
 
 
 
