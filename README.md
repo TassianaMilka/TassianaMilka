@@ -9,10 +9,16 @@
 <a href="https://br.pinterest.com/tassianamilka/">
  <img src="https://img.icons8.com/?size=100&id=XErM9A1xNUK5&format=png&color=000000"alt="Pinterest-icon" target="_blank"></a>
 
+## Pinterest-Milka Design Programming
+
+<a href="https://br.pinterest.com/tassianamilka2/">
+ <img src="https://img.icons8.com/?size=100&id=XErM9A1xNUK5&format=png&color=000000"alt="Pinterest-icon" target="_blank"></a>
 
 
-<a href="https://gist.github.com/TassianaMilka">
- <img src="https://img.icons8.com/?size=100&id=XErM9A1xNUK5&format=png&color=000000"alt="Github-icon" target="_blank"></a>
+## Youtube-Tassiana Milka 
+
+
+
 
 
 
