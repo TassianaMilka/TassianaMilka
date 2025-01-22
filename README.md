@@ -20,13 +20,11 @@
 ![image](https://github.com/user-attachments/assets/de8db759-a6a3-4640-85f3-0810b8eece08)  ![image](https://github.com/user-attachments/assets/9c564f35-761e-441b-ba89-2fd232e67527)
 
 
-#  Java 
+#  Java                                                                                      Ruby
 
- ![image](https://github.com/user-attachments/assets/b9a21e00-6078-4c48-ae79-fca8e397737f)
+ ![image](https://github.com/user-attachments/assets/b9a21e00-6078-4c48-ae79-fca8e397737f)   ![image](https://github.com/user-attachments/assets/62830250-797b-431a-90a1-27a3cdf4b404)
 
-# Python
 
-![image](https://github.com/user-attachments/assets/9c564f35-761e-441b-ba89-2fd232e67527)
 
 # Ruby
 
