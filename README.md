@@ -17,7 +17,7 @@
 
 # JavaScript                                                                                            Java                                                                      
 
-![image](https://github.com/user-attachments/assets/de8db759-a6a3-4640-85f3-0810b8eece08)  ![image](https://github.com/user-attachments/assets/b9a21e00-6078-4c48-ae79-fca8e397737f)
+![image](https://github.com/user-attachments/assets/de8db759-a6a3-4640-85f3-0810b8eece08)    ![image](https://github.com/user-attachments/assets/b9a21e00-6078-4c48-ae79-fca8e397737f)
 
 
 
