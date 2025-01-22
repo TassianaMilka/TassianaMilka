@@ -26,10 +26,6 @@
 
 
 
-# Ruby
-
-![image](https://github.com/user-attachments/assets/62830250-797b-431a-90a1-27a3cdf4b404)
-
 
 
 
