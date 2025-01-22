@@ -30,9 +30,10 @@
 
 
 
-# C# 
+# C#                                                                                        MySQL
 
-![image](https://github.com/user-attachments/assets/6cb2ccde-638b-461a-977b-4fddd387152b)
+![image](https://github.com/user-attachments/assets/6cb2ccde-638b-461a-977b-4fddd387152b)   ![image](https://github.com/user-attachments/assets/bff0e5d5-4f92-4d7d-94d4-3ca8ddc1d6a1)
+
 
 
 
