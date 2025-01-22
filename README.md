@@ -11,9 +11,9 @@
 
 # Programming languages my Github
  
-# HTML                                                                                      CSS
+# HTML                                                                                      CSS                                                                                        JavaScript
 
-![image](https://github.com/user-attachments/assets/44739744-005f-47fc-bde5-0fd18a7d8fd5)  ![image](https://github.com/user-attachments/assets/80e0d8c9-c71d-4d3b-8215-70d0143cc5a3)
+![image](https://github.com/user-attachments/assets/44739744-005f-47fc-bde5-0fd18a7d8fd5)  ![image](https://github.com/user-attachments/assets/80e0d8c9-c71d-4d3b-8215-70d0143cc5a3)    ![image](https://github.com/user-attachments/assets/de8db759-a6a3-4640-85f3-0810b8eece08)
 
 # JavaScript                                                                                Python                                                                             
 
