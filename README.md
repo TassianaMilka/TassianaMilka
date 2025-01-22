@@ -7,7 +7,7 @@
 ## Pinterest-Tassiana Milka
 
 <a href="https://br.pinterest.com/tassianamilka/">
- <img src="https://icons8.com/icon/63676/pinterest"alt="Github-icon" target="_blank"></a>
+ <img src="https://icons8.com/icon/63676/pinterest"alt="Pinterest-icon" target="_blank"></a>
 
 - 📄Pinterest-Tassiana Milka: https://br.pinterest.com/tassianamilka/ ;
 - 📄Pinterest-Milka Design Programming: https://br.pinterest.com/tassianamilka2/ ;
