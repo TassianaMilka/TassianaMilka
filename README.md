@@ -6,12 +6,9 @@
 
 ## Pinterest-Tassiana Milka
 
-<a href="https://br.pinterest.com/tassianamilka/">
- <img src="https://icons8.com/icon/XErM9A1xNUK5/pinterest" alt="Pinterest-icon" target="_blank"></a>
+<a href="https://gist.github.com/TassianaMilka">
+ <img src="https://img.icons8.com/?size=100&id=XErM9A1xNUK5&format=png&color=000000"alt="Github-icon" target="_blank"></a>
 
-- 📄Pinterest-Tassiana Milka: https://br.pinterest.com/tassianamilka/ ;
-- 📄Pinterest-Milka Design Programming: https://br.pinterest.com/tassianamilka2/ ;
-- 💻Youtube: https://www.youtube.com/@TassianaMilka ;
 
 
 # Programming languages my Github
