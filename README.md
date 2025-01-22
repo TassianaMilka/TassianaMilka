@@ -23,6 +23,11 @@
 
  ![image](https://github.com/user-attachments/assets/b9a21e00-6078-4c48-ae79-fca8e397737f)
 
+# Python
+
+![image](https://github.com/user-attachments/assets/9c564f35-761e-441b-ba89-2fd232e67527)
+
+
 
 
 
