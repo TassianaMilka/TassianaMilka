@@ -1,8 +1,8 @@
 #  Presentation
 
-- 👋Hello, my name is @Tassiana Milka;
-
-
+ ## Gisthub Gist
+<a href="https://gist.github.com/TassianaMilka">
+ <img src="https://img.icons8.com/?size=100&id=106562&format=png&color=000000"alt="Github-icon" target="_blank"></a>
 - 💻Github Gist: https://gist.github.com/TassianaMilka ;
 - 📄Pinterest-Tassiana Milka: https://br.pinterest.com/tassianamilka/ ;
 - 📄Pinterest-Milka Design Programming: https://br.pinterest.com/tassianamilka2/ ;
