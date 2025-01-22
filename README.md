@@ -9,19 +9,23 @@
 
 
  ## Github Gist- Tassiana Milka 
- 
-<a href="https://gist.github.com/TassianaMilka">
- <img src="https://img.icons8.com/?size=100&id=106562&format=png&color=000000"alt="Github-icon" target="_blank"></a>
+
+ ![image](https://github.com/user-attachments/assets/6aae1dde-406c-48b3-bfd0-12f529b14fb1)
+
+<a href="https://gist.github.com/TassianaMilka">Githyb Gist</a>
 
 ## Pinterest-Tassiana Milka
 
-<a href="https://br.pinterest.com/tassianamilka/">
- <img src="https://img.icons8.com/?size=100&id=XErM9A1xNUK5&format=png&color=000000"alt="Pinterest-icon" target="_blank"></a>
+
+![image](https://github.com/user-attachments/assets/9ea9d01c-26be-403f-acc7-3eff69e8027c)
+
+<a href="https://br.pinterest.com/tassianamilka/">Pinterest-Tassiana Milka</a>
 
 ## Pinterest-Milka Design Programming
 
-<a href="https://br.pinterest.com/tassianamilka2/">
- <img src="https://img.icons8.com/?size=100&id=XErM9A1xNUK5&format=png&color=000000"alt="Youtube-icon" target="_blank"></a>
+![image](https://github.com/user-attachments/assets/9ea9d01c-26be-403f-acc7-3eff69e8027c)
+
+<a href="https://br.pinterest.com/tassianamilka2/">Milka Design Programming</a>
 
 
 ## Youtube-Tassiana Milka 
