@@ -18,25 +18,16 @@
 #  Python                                                                                      Java                                                                                          Ruby
 
  ![image](https://github.com/user-attachments/assets/9c564f35-761e-441b-ba89-2fd232e67527)     ![image](https://github.com/user-attachments/assets/b9a21e00-6078-4c48-ae79-fca8e397737f)     ![image](https://github.com/user-attachments/assets/62830250-797b-431a-90a1-27a3cdf4b404)
+                                                                            
 
+#        C++                                                                                            C                                                                              C#
 
-                                                                               Ruby
-
-   ![image](https://github.com/user-attachments/assets/62830250-797b-431a-90a1-27a3cdf4b404)
-
-#        C++                                                                                            C
-
-![image](https://github.com/user-attachments/assets/a8f9f377-f349-4035-b243-a5116277bbd5)   ![image](https://github.com/user-attachments/assets/769d5871-92ec-4a3c-b369-3f526191b3d9)
+![image](https://github.com/user-attachments/assets/a8f9f377-f349-4035-b243-a5116277bbd5)   ![image](https://github.com/user-attachments/assets/769d5871-92ec-4a3c-b369-3f526191b3d9)    ![image](https://github.com/user-attachments/assets/6cb2ccde-638b-461a-977b-4fddd387152b)
 
 
 
-# C#                                                                                        MySQL
+  # MySQL                                                                                        Cobol
 
-![image](https://github.com/user-attachments/assets/6cb2ccde-638b-461a-977b-4fddd387152b)   ![image](https://github.com/user-attachments/assets/bff0e5d5-4f92-4d7d-94d4-3ca8ddc1d6a1)
-
-
-# Cobol
-
-![c](https://github.com/user-attachments/assets/5c18894c-3e91-4a23-b383-5b5090c36818)
+  ![image](https://github.com/user-attachments/assets/bff0e5d5-4f92-4d7d-94d4-3ca8ddc1d6a1)     ![c](https://github.com/user-attachments/assets/5c18894c-3e91-4a23-b383-5b5090c36818)
 
 
