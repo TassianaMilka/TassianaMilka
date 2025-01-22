@@ -37,9 +37,6 @@
 
 # Cobol
 
-![image](https://github.com/user-attachments/assets/0a7c0d21-41b4-4b76-9c41-642f86bb7f75)
-
-
-
+![c](https://github.com/user-attachments/assets/5c18894c-3e91-4a23-b383-5b5090c36818)
 
 
