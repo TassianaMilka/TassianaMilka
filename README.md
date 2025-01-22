@@ -12,7 +12,7 @@
 
  ![image](https://github.com/user-attachments/assets/6aae1dde-406c-48b3-bfd0-12f529b14fb1)
 
-<a href="https://gist.github.com/TassianaMilka">Githyb Gist</a>
+<a href="https://gist.github.com/TassianaMilka">Github Gist</a>
 
 ## Pinterest-Tassiana Milka
 
@@ -30,12 +30,9 @@
 
 ## Youtube-Tassiana Milka 
 
+![image](https://github.com/user-attachments/assets/2087d2cf-1085-491b-a282-e8a03df03987)
 
-<a href="https://www.youtube.com/@TassianaMilka/playlists">
- <img src="https://icons8.com/icon/9a46bTk3awwI/youtube"alt="youtube-icon" target="_blank"></a>
-
-
-
+<a href="https://www.youtube.com/@TassianaMilka/playlists">Youtube</a>
 
 
 
