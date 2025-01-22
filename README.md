@@ -28,8 +28,6 @@
 
   # MySQL                                                                                        Cobol
 
-  ![image](https://github.com/user-attachments/assets/bff0e5d5-4f92-4d7d-94d4-3ca8ddc1d6a1)     ![c](https://github.com/user-attachments/assets/5c18894c-3e91-4a23-b383-5b5090c36818)
-  
-![c](https://github.com/user-attachments/assets/844ea307-5f0a-4f62-aa40-2bd35f042570)
+  ![image](https://github.com/user-attachments/assets/bff0e5d5-4f92-4d7d-94d4-3ca8ddc1d6a1)     ![c](https://github.com/user-attachments/assets/844ea307-5f0a-4f62-aa40-2bd35f042570)
 
 
