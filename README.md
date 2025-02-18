@@ -55,7 +55,8 @@
 
   # MySQL                                                                                        Cobol                                            Go
 
-  ![image](https://github.com/user-attachments/assets/bff0e5d5-4f92-4d7d-94d4-3ca8ddc1d6a1)     ![c](https://github.com/user-attachments/assets/844ea307-5f0a-4f62-aa40- 2bd35f042570) 
+
+  ![image](https://github.com/user-attachments/assets/bff0e5d5-4f92-4d7d-94d4-3ca8ddc1d6a1)     ![c](https://github.com/user-attachments/assets/703d4b72-4e3c-4d2e-b95f-cd58e7720724)
   ![image](https://github.com/user-attachments/assets/bc32b0a1-e561-43b7-82cd-08df207343e3)
 
 
