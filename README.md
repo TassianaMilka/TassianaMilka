@@ -63,6 +63,6 @@
 
 #  kotlin                                                                                              Assembly
 
-![icons8-kotlin-100](https://github.com/user-attachments/assets/4d3fd290-d100-4deb-a280-d727d3d972ed)  ![assembly](https://github.com/user-attachments/assets/3e6c5ebb-2d6c-4588-8b78-f8f174e84bfb)
+![icons8-kotlin-100](https://github.com/user-attachments/assets/4d3fd290-d100-4deb-a280-d727d3d972ed)  ![Captura de tela 2025-07-06 155301](https://github.com/user-attachments/assets/b135252f-fd7a-44bb-aed1-6394b7401f4d)
 
 
