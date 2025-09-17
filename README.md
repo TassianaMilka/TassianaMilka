@@ -1,8 +1,6 @@
 #  Presentation
 
 
-linksredessociais.vercel.app
-
 
 
 
