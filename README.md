@@ -72,4 +72,5 @@
 # TypeScript
 
 
-<img width="48" height="48" alt="icons8-typescript-48" src="https://github.com/user-attachments/assets/e2a00d2a-8203-42a8-ae8a-adae64e936cf" />
+<img width="240" height="240" alt="icons8-typescript-240" src="https://github.com/user-attachments/assets/4f6b628a-c620-497c-bc92-5a2115a53c38" />
+
