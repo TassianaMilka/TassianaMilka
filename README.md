@@ -57,7 +57,7 @@
 
 
 
-  # MySQL                                                                                        Cobol                                            Go
+  # SQL                                                                                        Cobol                                            Go
 
   <img width="128" height="128" alt="database" src="https://github.com/user-attachments/assets/1096202c-e547-48d7-9a78-c3e82f99aa27" />   ![c](https://github.com/user-attachments/assets/703d4b72-4e3c-4d2e-b95f-cd58e7720724)
   ![image](https://github.com/user-attachments/assets/bc32b0a1-e561-43b7-82cd-08df207343e3)
