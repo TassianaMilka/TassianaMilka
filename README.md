@@ -69,4 +69,7 @@
 
 ![icons8-kotlin-100](https://github.com/user-attachments/assets/4d3fd290-d100-4deb-a280-d727d3d972ed)  ![Captura de tela 2025-07-06 155301](https://github.com/user-attachments/assets/b135252f-fd7a-44bb-aed1-6394b7401f4d)
 
+# TypeScript
 
+
+<img width="48" height="48" alt="icons8-typescript-48" src="https://github.com/user-attachments/assets/e2a00d2a-8203-42a8-ae8a-adae64e936cf" />
