@@ -83,9 +83,12 @@
 # Windows         
 
 
+<img width="128" height="128" alt="windows-square-shape-brand_icon-icons com_59257" src="https://github.com/user-attachments/assets/70c7a44b-6a37-4908-96b2-1455b9ef9825" />
 
 
 # Linux
+
+Ubuntu
 
 
 <img width="128" height="128" alt="ubuntu_14143" src="https://github.com/user-attachments/assets/2cc10e90-4700-4bc8-ae4e-c8aee6f089e1" />
