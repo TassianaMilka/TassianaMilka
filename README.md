@@ -32,12 +32,6 @@
 <a href="https://br.pinterest.com/tassianamilka2/">Milka Design Programming</a>
 
 
-## Youtube-Tassiana Milka 
-
-![image](https://github.com/user-attachments/assets/2087d2cf-1085-491b-a282-e8a03df03987)
-
-<a href="https://www.youtube.com/@TassianaMilka/playlists">Youtube</a>
-
 
 
 # Programming languages my Github
