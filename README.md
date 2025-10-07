@@ -75,3 +75,17 @@
 # Framework 
 
 
+
+
+# Operation Systems
+
+
+# Windows         
+
+
+
+
+# Linux
+
+
+<img width="128" height="128" alt="ubuntu_14143" src="https://github.com/user-attachments/assets/2cc10e90-4700-4bc8-ae4e-c8aee6f089e1" />
