@@ -62,12 +62,13 @@
 
 ![icons8-kotlin-100](https://github.com/user-attachments/assets/4d3fd290-d100-4deb-a280-d727d3d972ed)  ![Captura de tela 2025-07-06 155301](https://github.com/user-attachments/assets/b135252f-fd7a-44bb-aed1-6394b7401f4d)
 
-# TypeScript
+# TypeScript                                                                                                                                        Rust 
 
 
 
 
-<img width="144" height="144" alt="icons8-typescript-144" src="https://github.com/user-attachments/assets/79815f58-9286-45e1-8ef6-2f15010d97c4" />
+<img width="144" height="144" alt="icons8-typescript-144" src="https://github.com/user-attachments/assets/79815f58-9286-45e1-8ef6-2f15010d97c4" />  <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/893c0d0a-eb9e-4eba-b0ab-af7e0020095a" />
+
 
 
 
