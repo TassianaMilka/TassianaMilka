@@ -18,18 +18,6 @@
 
 <a href="https://gist.github.com/TassianaMilka">Github Gist</a>
 
-## Pinterest-Tassiana Milka
-
-
-![image](https://github.com/user-attachments/assets/9ea9d01c-26be-403f-acc7-3eff69e8027c)
-
-<a href="https://br.pinterest.com/tassianamilka/">Pinterest-Tassiana Milka</a>
-
-## Pinterest-Milka Design Programming
-
-![image](https://github.com/user-attachments/assets/9ea9d01c-26be-403f-acc7-3eff69e8027c)
-
-<a href="https://br.pinterest.com/tassianamilka2/">Milka Design Programming</a>
 
 
 
